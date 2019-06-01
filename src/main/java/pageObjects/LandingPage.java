@@ -29,14 +29,19 @@ public class LandingPage {
 
 	public WebElement getLogin()
 	{
+		System.out.println("kruthivas");
+		
 		return driver.findElement(signin);
+		
 	}
 	public WebElement getNavigationBar()
 	{
+		System.out.println("kruthivas");
 		return driver.findElement(NavBar);
 	}
 	public WebElement getTitle()
 	{
+		System.out.println("kruthivas");
 		return driver.findElement(title);
 	}
 	
