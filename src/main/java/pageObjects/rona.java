@@ -1,4 +1,4 @@
-package Academy;
+package pageObjects;
 
 import org.testng.annotations.Test;
 

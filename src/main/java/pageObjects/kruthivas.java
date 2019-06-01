@@ -13,6 +13,10 @@ public class kruthivas  extends base{
 		System.out.println("kruthivasrona");
 		System.out.println("kruthivasrona");
 		System.out.println("kruthivasrona");
+		System.out.println("kruthivasronaprbhasini");
+		System.out.println("kruthivasronaprbhasini");
+		System.out.println("kruthivasronaprbhasini");
+		System.out.println("kruthivasronaprbhasini");
 		
 	}
 
