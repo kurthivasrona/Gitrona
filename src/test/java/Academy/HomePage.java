@@ -43,9 +43,7 @@ public class HomePage extends base{
 		log.info(text);
 		
 		lp.getLogin().click();
-		System.out.println("kruthivas");
-		System.out.println("kruthivas");
-		System.out.println("kruthivas");
+		
 		}
 
 	@AfterTest
